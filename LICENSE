@@ -1,0 +1,11 @@
+
+---
+
+## ⚙️ .gitignore
+```gitignore
+__pycache__/
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.zip

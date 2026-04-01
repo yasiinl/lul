@@ -1,0 +1,28 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset folder
+data/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Jupyter notebooks checkpoints 
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
